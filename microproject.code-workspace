@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "My_Project",
+			"path": "../../../MPLABProjects/My_Project"
+		}
+	],
+	"settings": {
+		"mplab.clangd.arguments": [
+			"--compile-commands-dir=${userHome}/MPLABProjects/My_Project/_build/My_Project/default"
+		],
+		"mplab.clangd.path": "/Applications/microchip/xc8/v3.10/bin/xc8-clangd",
+		"C_Cpp.intelliSenseEngine": "disabled"
+	}
+}

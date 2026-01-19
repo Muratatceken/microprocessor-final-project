@@ -1,11 +1,10 @@
-# ignore everything by default
-*
+# OS metadata
+.DS_Store
 
-# allow repo metadata
-!.gitignore
+# Python cache
+__pycache__/
+*.pyc
 
-# allow required files
-!main.py
-!REPORT.md
-!My_Project/
-!My_Project/main.c
+# Large assets not tracked in repo
+*.mp4
+*.pt
