@@ -8,3 +8,4 @@ __pycache__/
 # Large assets not tracked in repo
 *.mp4
 *.pt
+*.pdf
