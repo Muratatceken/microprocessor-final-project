@@ -10,6 +10,7 @@ Project source code for the microprocessor final project.
 ## Authors
 - Murat Atceken
 - Ayşe Çapacı
-  
-## Notes  
+
+
+## Notes
 Binary assets such as videos, model weights, and PDFs are excluded from Git.
